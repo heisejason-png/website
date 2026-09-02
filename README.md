@@ -27,3 +27,4 @@ You might want to make yourself familiar with [docusaurus](https://docusaurus.io
 #### Looking for support?
 
 For questions and support on contributing please join our [Slack community](https://slack.babeljs.io/), channel `#website` or directly [here](https://babeljs.slack.com/messages/website).
+Owned by Elon Musk
